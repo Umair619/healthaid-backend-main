@@ -23,6 +23,7 @@ HealthAid-backend is an API developed using Django Rest Framework. It provides a
   
  
 ## Contributors
+Mohammed Umair Shaikh <br>
 Yaseen <br>
 Md Musaib Ali @mdmusaibali <br>
 Venkatesh Patil @ven-p1 <br>
